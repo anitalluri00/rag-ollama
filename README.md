@@ -19,6 +19,7 @@ streamlit run app.py
 
 ### 4. Build & deploy with Docker
 docker build -t rag-llama .
+
 docker run -p 8501:8501 rag-llama
 
 ### 5. Usage
