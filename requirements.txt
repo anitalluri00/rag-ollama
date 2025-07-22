@@ -6,3 +6,5 @@ langchain
 faiss-cpu
 pypdf
 openpyxl
+ollama
+unstructured
